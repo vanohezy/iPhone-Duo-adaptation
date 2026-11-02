@@ -1,0 +1,6 @@
+interface:
+  display_name: "iPhone Duo 适配"
+  short_description: "依据 Apple 官方方案与优秀 App 案例，优化折叠屏各状态布局和任务连续性"
+  default_prompt: "使用 $iphone-duo-adaptation 检查并优化这个 App 在 iPhone Duo 各种姿态、分屏和折叠过程中的体验，完成验证并说明证据。"
+policy:
+  allow_implicit_invocation: true
