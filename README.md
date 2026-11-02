@@ -1,5 +1,7 @@
 # iPhone Duo Adaptation Skill · 折叠屏适配技能
 
+[简体中文](README.md) | [English](README.en.md)
+
 面向 Codex 等支持 `SKILL.md` 的编码助手，优化 iPhone Duo 各姿态下的布局、导航、工具栏、折叠保留区与任务连续性。
 
 研究基线：2026-11-02。依据 Apple 官方 HIG、六场 Tech Talks、SDK 声明和七款 App 的原始发布资料。官方事实、厂商描述、设计推导与实际验收分别标记。内容以中文编写。
